@@ -7,7 +7,9 @@ namespace R5T.S0106
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            //Explorations.Instance.GenericTypeArgumentsVsParameters();
+            //Explorations.Instance.NameOfGenericTypedMethods();
+            Explorations.Instance.Inspect_GenericTypeRestrictions();
         }
     }
 }
